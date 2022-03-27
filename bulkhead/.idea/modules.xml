@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bulkhead.iml" filepath="$PROJECT_DIR$/.idea/bulkhead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-dto/common-dto.iml" filepath="$PROJECT_DIR$/common-dto/common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ratting-service/ratting-service.iml" filepath="$PROJECT_DIR$/ratting-service/ratting-service.iml" />
+    </modules>
+  </component>
+</project>
